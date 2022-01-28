@@ -1,5 +1,3 @@
-# <strong> Veri Yapileri Ve Algoritmalar "InsertionSort" Sorular:
-
 ## <strong> [22,27,16,2,18,6] -> Insertion Sort 
 
 <br>
